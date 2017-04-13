@@ -25,8 +25,7 @@
 
 **Today's Progress**: Intermediate Js Concepts Review. Also reviewed Markdown (old and new), Git stashing + potential stash conflicts.
 
-###### Tools/Courses
----    
+#### Tools/Courses
 - [ ] Enki
 - [x] HackerRank
 - [x] Exercism.io
@@ -45,8 +44,7 @@
 **Links**
 1. [The Bash Guide](http://guide.bash.academy/)
 
-###### Tools/Courses
----    
+#### Tools/Courses
 - [ ] Enki
 - [ ] HackerRank
 - [x] Exercism.io
@@ -63,8 +61,7 @@
 **Links**
 1. [Helpful Gist for Using C9 with Exercism](https://gist.github.com/jcdavison/eaa6756472552214ac16)
 
-###### Tools/Courses
----    
+#### Tools/Courses
 - [ ] Enki
 - [ ] HackerRank
 - [x] Exercism.io
@@ -84,8 +81,7 @@
 3. [Second React Tut Series](https://www.youtube.com/watch?v=2NLgQMs2hOw&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA&index=2)
 4. [React + Meteor 4 Everyone v.2](https://www.youtube.com/watch?v=V3ZGcBLBNVE&list=PLLnpHn493BHGGHRmdXip3GswwLWY9S6of&index=4)
 
-###### Tools/Courses
----    
+#### Tools/Courses
 - [x] Enki
 - [ ] HackerRank
 - [ ] Exercism.io
