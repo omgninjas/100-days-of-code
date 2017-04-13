@@ -46,12 +46,12 @@
 
 #### Tools/Courses
 - [ ] Enki
-- [ ] HackerRank
+- [x] HackerRank, (JS) worked on it, incomplete challenge
 - [x] Exercism.io
-- [ ] FreeCodeCamp
-- [ ] Bash Academy
+- [x] FreeCodeCamp - Worked on PigLatin, incomplete - Wiki Viewer, pending...
+- [ ] Bash Academy (0/11)
 - [ ] Tyler McGinnis React Course
-- 
+
 ### Day 2: April 11, Tuesday
 
 **Today's Progress**: Restarted my Exercism.io (Python/JS)challenges....Totally forgot about those....Also found a better notebook for GIT/BASH notes. Transferring....
@@ -82,7 +82,7 @@
 4. [React + Meteor 4 Everyone v.2](https://www.youtube.com/watch?v=V3ZGcBLBNVE&list=PLLnpHn493BHGGHRmdXip3GswwLWY9S6of&index=4)
 
 #### Tools/Courses
-- [x] Enki
+- [x] Enki (JS)
 - [ ] HackerRank
 - [ ] Exercism.io
 - [ ] FreeCodeCamp
