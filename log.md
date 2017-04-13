@@ -25,13 +25,13 @@
 
 **Today's Progress**: Intermediate Js Concepts Review. Also reviewed Markdown (old and new), Git stashing + potential stash conflicts.
     
-    ###### Tools/Courses
+    ### Tools/Courses
     
-    - [] Enki
+    - [ ] Enki
     - [x] HackerRank
     - [x] Exercism.io
-    - [] FreeCodeCamp
-    - [] Bash Academy
+    - [ ] FreeCodeCamp
+    - [ ] Bash Academy
 
 **Thoughts** This is by far the easiest repo ever mainained. I mean, true, there are zero real working files but the log.
 
