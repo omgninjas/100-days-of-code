@@ -25,8 +25,8 @@
 
 **Today's Progress**: Intermediate Js Concepts Review. Also reviewed Markdown (old and new), Git stashing + potential stash conflicts.
 
-### Tools/Courses
-    
+###### Tools/Courses
+---    
 - [ ] Enki
 - [x] HackerRank
 - [x] Exercism.io
@@ -45,7 +45,15 @@
 **Links**
 1. [The Bash Guide](http://guide.bash.academy/)
 
-
+###### Tools/Courses
+---    
+- [ ] Enki
+- [ ] HackerRank
+- [x] Exercism.io
+- [ ] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+- 
 ### Day 2: April 11, Tuesday
 
 **Today's Progress**: Restarted my Exercism.io (Python/JS)challenges....Totally forgot about those....Also found a better notebook for GIT/BASH notes. Transferring....
@@ -54,6 +62,15 @@
 
 **Links**
 1. [Helpful Gist for Using C9 with Exercism](https://gist.github.com/jcdavison/eaa6756472552214ac16)
+
+###### Tools/Courses
+---    
+- [ ] Enki
+- [ ] HackerRank
+- [x] Exercism.io
+- [ ] FreeCodeCamp
+- [ ] Bash Academy
+- [x] Tyler McGinnis React Course
 
 ### Day 1: April 10, Monday
 
@@ -66,3 +83,12 @@
 2. [Webpack Tutorial](https://www.youtube.com/watch?annotation_id=annotation_4139363737&feature=iv&src_vid=MhkGQAoc7bc&v=9kJVYpOqcVU)
 3. [Second React Tut Series](https://www.youtube.com/watch?v=2NLgQMs2hOw&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA&index=2)
 4. [React + Meteor 4 Everyone v.2](https://www.youtube.com/watch?v=V3ZGcBLBNVE&list=PLLnpHn493BHGGHRmdXip3GswwLWY9S6of&index=4)
+
+###### Tools/Courses
+---    
+- [x] Enki
+- [ ] HackerRank
+- [ ] Exercism.io
+- [ ] FreeCodeCamp
+- [ ] Bash Academy
+- [x] Tyler McGinnis React Course
