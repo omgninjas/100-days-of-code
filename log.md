@@ -25,17 +25,15 @@
 
 **Today's Progress**: Intermediate Js Concepts Review. Also reviewed Markdown (old and new), Git stashing + potential stash conflicts.
     ######Tools/Courses
-    -[] Enki
-    -[x] HackerRank
-    -[x] Exercism.io
-    -[] FreeCodeCamp
-    -[] Bash Academy
+    
+    - [] Enki
+    - [x] HackerRank
+    - [x] Exercism.io
+    - [] FreeCodeCamp
+    - [] Bash Academy
 
 
-**Thoughts** Looked into Bash Academy. 11 chapters, 11 days? 
-
-**Links**
-1. [The Bash Guide](http://guide.bash.academy/)
+**Thoughts** This is by far the easiest repo ever mainained. I mean, true, there are zero real working files but the log.
 
 ### Day 3: April 12, Wednesday
 
