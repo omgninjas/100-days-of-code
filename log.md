@@ -24,14 +24,15 @@
 ### Day 4: April 13, Thursday
 
 **Today's Progress**: Intermediate Js Concepts Review. Also reviewed Markdown (old and new), Git stashing + potential stash conflicts.
+
+### Tools/Courses
     
-    ### Tools/Courses
-    
-    - [ ] Enki
-    - [x] HackerRank
-    - [x] Exercism.io
-    - [ ] FreeCodeCamp
-    - [ ] Bash Academy
+- [ ] Enki
+- [x] HackerRank
+- [x] Exercism.io
+- [ ] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
 
 **Thoughts** This is by far the easiest repo ever mainained. I mean, true, there are zero real working files but the log.
 
