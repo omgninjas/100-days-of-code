@@ -21,9 +21,25 @@
 
 -->
 
-### Day 3: April 13, Wednesday
+### Day 4: April 13, Thursday
 
-**Today's Progress**: Javascript review. Always good to recap the basics every so often. Also reviewed Git generally and specifically history, configuration, rebase, pruning history
+**Today's Progress**: Intermediate Js Concepts Review. Also reviewed Markdown (old and new), Git stashing + potential stash conflicts.
+    ######Tools/Courses
+    -[] Enki
+    -[x] HackerRank
+    -[x] Exercism.io
+    -[] FreeCodeCamp
+    -[] Bash Academy
+
+
+**Thoughts** Looked into Bash Academy. 11 chapters, 11 days? 
+
+**Links**
+1. [The Bash Guide](http://guide.bash.academy/)
+
+### Day 3: April 12, Wednesday
+
+**Today's Progress**: Fundamentals Js review.  Also reviewed Git generally and specifically history, configuration, rebase, pruning history
 
 **Thoughts** Looked into Bash Academy. 11 chapters, 11 days? 
 
