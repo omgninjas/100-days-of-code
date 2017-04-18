@@ -21,19 +21,58 @@
 
 -->
 
+
+### Day 7: April 18, Tuesday
+
+**Today's Progress**: HTML 5 Review. Python + Git exercises.
+
+#### Tools/Courses
+- [x] Enki JS/Git/PY
+- [ ] HackerRank
+- [x] Exercism.io - JS - Pangram
+- [ ] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 6: April 17, Monday
+
+**Today's Progress**: JS Module Best Practices. Namespacing, Closures, Global Imports, Augmentation. Also used Enki to review JS, Python and Git concepts.
+
+#### Tools/Courses
+- [ ] Enki
+- [ ] HackerRank
+- [x] Exercism.io - JS - Pangram - Incomplete
+- [x] FreeCodeCamp, still working on PigLatin
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 5: April 14, Friday
+
+**Today's Progress**: 
+
+#### Tools/Courses
+- [x] Enki - JS
+- [x] HackerRank (6/30) - python
+- [x] Exercism.io - JS, RNA Transcription
+- [ ] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+**Thoughts** 
+
 ### Day 4: April 13, Thursday
 
 **Today's Progress**: Intermediate Js Concepts Review. Also reviewed Markdown (old and new), Git stashing + potential stash conflicts.
 
 #### Tools/Courses
 - [ ] Enki
-- [x] HackerRank
-- [x] Exercism.io
-- [ ] FreeCodeCamp
+- [x] HackerRank (4 & 5 /30) - JS
+- [x] Exercism.io - JS - Hamming
+- [x] FreeCodeCamp, worked on PigLatin, incomplete
 - [ ] Bash Academy
 - [ ] Tyler McGinnis React Course
 
-**Thoughts** This is by far the easiest repo ever mainained. I mean, true, there are zero real working files but the log.
+**Thoughts** Wrote my first JS Module unassisted!! Okay, minimally assisted. Still Amped!
 
 ### Day 3: April 12, Wednesday
 
@@ -47,7 +86,7 @@
 #### Tools/Courses
 - [ ] Enki
 - [x] HackerRank, (JS) worked on it, incomplete challenge
-- [x] Exercism.io
+- [x] Exercism.io - JS - Leap
 - [x] FreeCodeCamp - Worked on PigLatin, incomplete - Wiki Viewer, pending...
 - [ ] Bash Academy (0/11)
 - [ ] Tyler McGinnis React Course
@@ -64,7 +103,7 @@
 #### Tools/Courses
 - [ ] Enki
 - [ ] HackerRank
-- [x] Exercism.io
+- [x] Exercism.io - JS - Hello, World!
 - [ ] FreeCodeCamp
 - [ ] Bash Academy
 - [x] Tyler McGinnis React Course
