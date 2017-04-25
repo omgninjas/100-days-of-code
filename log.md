@@ -22,9 +22,9 @@
 -->
 
 
-### Day 9: April 25, Tuesday
+### Day 8: April 25, Tuesday
 
-**Today's Progress**: HTML5 + CSS3 Review, incl. responsive design. Brand identity / logo design recap.
+**Today's Progress**: HTML5 + CSS3 Review, incl. responsive design. Brand identity / logo design recap. Some bash/cmd but not much.
 
 #### Tools/Courses
 - [ ] Enki JS/Git/PY
