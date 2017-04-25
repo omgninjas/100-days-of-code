@@ -22,6 +22,19 @@
 -->
 
 
+### Day 9: April 25, Tuesday
+
+**Today's Progress**: HTML5 + CSS3 Review, incl. responsive design. Brand identity / logo design recap.
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [ ] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+
 ### Day 7: April 18, Tuesday
 
 **Today's Progress**: HTML 5 Review. Python + Git exercises.
@@ -29,7 +42,7 @@
 #### Tools/Courses
 - [x] Enki JS/Git/PY
 - [ ] HackerRank
-- [x] Exercism.io - JS - Pangram
+- [x] Exercism.io - JS - Pangram  - Complete
 - [ ] FreeCodeCamp
 - [ ] Bash Academy
 - [ ] Tyler McGinnis React Course
