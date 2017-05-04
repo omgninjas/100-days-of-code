@@ -21,6 +21,18 @@
 
 -->
 
+### Day 13: May 4, Thursday 
+
+**Today's Progress**: Worked on Applied Visual Design in FCC Beta. 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
 
 ### Day 12: May 3, Wednesday 
 
