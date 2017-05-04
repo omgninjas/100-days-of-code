@@ -22,17 +22,57 @@
 -->
 
 
-### Day 8: April 25, Tuesday
+### Day 12: May 3, Wednesday 
 
-**Today's Progress**: HTML5 + CSS3 Review, incl. responsive design. Brand identity / logo design recap. Some bash/cmd but not much.
+**Today's Progress**: Worked on Applied Visual Design in FCC (beta version). 
 
 #### Tools/Courses
 - [ ] Enki JS/Git/PY
 - [ ] HackerRank
 - [ ] Exercism.io - JS - Bob - Incomplete
-- [ ] FreeCodeCamp
+- [x] FreeCodeCamp
 - [ ] Bash Academy
 - [ ] Tyler McGinnis React Course
+
+### Day 11: May 2, Tuesday 
+
+**Today's Progress**: Worked on Basic HTML, Basic CSS and Applied Visual Design  in FCC (beta version). 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 10: May 1, Monday 
+
+**Today's Progress**: Worked on Basic HTML in FCC (beta version). Reviewed Responsive Design vs Adaptive Design principles, fundamentals of Design for the web
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 9: April 25, Thursday
+
+**Today's Progress**: Restarted FCC (beta version). 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 8: April 25, Tuesday
+
+**Today's Progress**: HTML5 + CSS3 Review, incl. responsive design. Brand identity / logo design recap. Some bash/cmd but not much.
 
 
 ### Day 7: April 18, Tuesday
