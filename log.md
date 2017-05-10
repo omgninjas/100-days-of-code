@@ -21,6 +21,44 @@
 
 -->
 
+### Day 16: May 10, Wednesday
+
+**Today's Progress**: Worked on Applied Visual Design & Applied Accessibility in FCC Beta. 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 15: May 8, Monday
+
+**Today's Progress**: Worked on Applied Visual Design in FCC Beta. 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 14: May 5, Friday
+
+**Today's Progress**: Cracking my skull against Webpack Webpack Webpack.
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+**Thoughts** Why is this so hard????!!?!?!? Ugh.
+
 ### Day 13: May 4, Thursday 
 
 **Today's Progress**: Worked on Applied Visual Design in FCC Beta. 
