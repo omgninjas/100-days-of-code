@@ -38,6 +38,14 @@ Would it be too much to ask for your progress to be downloadable or backable to 
 Save as a Gist? Add to a repo? I could do this manually, (I started to do this with the alpha curriculum) - but is a pain to start over with beta.
 And then having to redo everytime FCC changes it curriculum? - hell to the naw.
 
+**Links**
+1. Currently fixing [this](http://codepen.io/omgninjas/full/qZwGxj/) Tribute Page to pass new tests. 
+2. [Repo](https://github.com/omgninjas/tribute-page) for most updated version.
+
+
+
+(https://github.com/omgninjas/tribute-page)
+
 ### Day 16: May 10, Wednesday
 
 **Today's Progress**: Worked on Applied Visual Design, Applied Accessibility, Respinsive Web Design Principles in FCC Beta. 
@@ -202,6 +210,7 @@ And then having to redo everytime FCC changes it curriculum? - hell to the naw.
 
 **Links**
 1. [The Bash Guide](http://guide.bash.academy/)
+
 
 #### Tools/Courses
 - [ ] Enki
