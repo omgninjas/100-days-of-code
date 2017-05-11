@@ -20,10 +20,30 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
+### Day 17: May 11, Thursday
+
+**Today's Progress**: Worked on CSS Flexbox & Applied Respnsive Web Design Projects in FCC Beta. 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+- 
+**Links**
+1. [Le Profile]()
+
+**Thoughts** I wish FCC made it so the challenges already completed in the alpha curriculum were marked as complete in the beta.
+Doing EVERYTHING all over again is a major drag, just to get to the content I want. Or a way to test out would be nice. 
+Would it be too much to ask for your progress to be downloadable or backable to github? 
+Save as a Gist? Add to a repo? I could do this manually, (I started to do this with the alpha curriculum) - but is a pain to start over with beta.
+And then having to redo everytime FCC changes it curriculum? - hell to the naw.
 
 ### Day 16: May 10, Wednesday
 
-**Today's Progress**: Worked on Applied Visual Design & Applied Accessibility in FCC Beta. 
+**Today's Progress**: Worked on Applied Visual Design, Applied Accessibility, Respinsive Web Design Principles in FCC Beta. 
 
 #### Tools/Courses
 - [ ] Enki JS/Git/PY
