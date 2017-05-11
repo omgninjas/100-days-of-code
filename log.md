@@ -31,9 +31,6 @@
 - [x] FreeCodeCamp
 - [ ] Bash Academy
 - [ ] Tyler McGinnis React Course
-- 
-**Links**
-1. [Le Profile]()
 
 **Thoughts** I wish FCC made it so the challenges already completed in the alpha curriculum were marked as complete in the beta.
 Doing EVERYTHING all over again is a major drag, just to get to the content I want. Or a way to test out would be nice. 
