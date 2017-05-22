@@ -20,6 +20,85 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
+
+### Day 22: May 22, Monday
+
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Started Product Landing Page.
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+### Day 21: May 17, Wednesday
+
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Refactored Portfolio to pass unit tests.
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+**Links**
+1. Finished [this Portolio Webpage](https://codepen.io/omgninjas/full/xdJaoZ/) to pass new tests. 
+
+
+### Day 20: May 16, Tuesday
+
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Finished Survey form, started working on Product Landing page. 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+**Links**
+1. Finished [Survey Form Project](https://codepen.io/omgninjas/full/Lyroze/)
+2. Started fixing [this](https://codepen.io/omgninjas/full/xdJaoZ/) Portfolio Webpage to pass new tests. 
+
+
+### Day 19: May 15, Monday
+
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Refactoring Tribute Page to pass unit tests.
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+**Links**
+1. Fixed [this](http://codepen.io/omgninjas/full/qZwGxj/) Tribute Page to pass new unit tests. 
+2. Started [Survey Form Project](https://codepen.io/omgninjas/full/Lyroze/)
+
+### Day 18: May 12, Friday
+
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+**Links**
+1. Currently fixing [this](http://codepen.io/omgninjas/full/qZwGxj/) Tribute Page to pass new tests. 
+2. [Repo](https://github.com/omgninjas/tribute-page) for most updated version.
+
+
 ### Day 17: May 11, Thursday
 
 **Today's Progress**: Worked on CSS Flexbox & Applied Respnsive Web Design Projects in FCC Beta. 
