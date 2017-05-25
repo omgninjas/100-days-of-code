@@ -20,10 +20,23 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
+### Day 23: May 23, Tuesday
+
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Worked on Product Landing Page. Started Basic JS.
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+
 
 ### Day 22: May 22, Monday
 
-**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Started Product Landing Page.
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Started Product Landing Page. Started Basic JS.
 
 #### Tools/Courses
 - [ ] Enki JS/Git/PY
