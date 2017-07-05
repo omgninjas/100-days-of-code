@@ -20,6 +20,50 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
+### Day 26: July 4, Tuesday
+**Today's Progress**: Still on this Landing page. I always code for the unit tests first so its been passing for some time. Just "making it purdy"...Spent only about 10-15 minutes on it, because you know, RAGE. Spent the rest of the day learning bash/ternminal.
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+**Links**
+1. Book I'm reading/working through: [this](https://www.learnenough.com/command-line-tutorial) 
+
+### Day 25: July 3, Monday
+**Today's Progress**: Bruh....I've skipped the log SO. MANY. TIMES. I also took the longest of coding breaks somewhere in between - partially to learn Graphic Design. Still working on the product landing for some reason
+    its the bane of my existence. Its just so boring when you have to make it up. Hate. Hate. Hate. But I'm almost done. 
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp - Product/Service Landing - Incomplete
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+
+### Day 24: May 24, Wednesday
+
+**Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta (Product Landing Page) & basic JS. Also worked on Python Master Class (Udemy)
+
+#### Tools/Courses
+- [ ] Enki JS/Git/PY
+- [ ] HackerRank
+- [ ] Exercism.io - JS - Bob - Incomplete
+- [x] FreeCodeCamp
+- [ ] Bash Academy
+- [ ] Tyler McGinnis React Course
+
+
+**Links**
+1. [Complete Python Master Class](https://www.udemy.com/python-the-complete-python-developer-course/learn/v4/overview) on Udemy. 
+
+
 ### Day 23: May 23, Tuesday
 
 **Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta. Worked on Product Landing Page. Started Basic JS.
