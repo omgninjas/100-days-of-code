@@ -46,7 +46,6 @@
 - [ ] Bash Academy
 - [ ] Tyler McGinnis React Course
 
-
 ### Day 24: May 24, Wednesday
 
 **Today's Progress**: Worked Applied Respnsive Web Design Projects in FCC Beta (Product Landing Page) & basic JS. Also worked on Python Master Class (Udemy)

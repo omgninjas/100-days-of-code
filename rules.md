@@ -1,7 +1,7 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour for 100 days. I'm super realistic about my ability to code consecutive days. Lets be real.*
 
 #### Start Date
 April 10, 2017
