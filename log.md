@@ -20,6 +20,52 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
+
+### Day 32: July 26, Wednesday
+**Today's Progress**: Worked through Chapter 8 JS The Definitve Guide then Dropped in favor of JS The Good Parts Worked through Chapters 1-4
+
+**Links**
+1. [Book](http://shop.oreilly.com/product/9780596517748.do) I'm reading/working through 
+2. [PDF Link](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+
+### Day 32: July 25, Tuesday
+**Today's Progress**: Worked through Chapter 4 JS The Definitve Guide
+
+### Day 32: July 24, Thursday
+**Today's Progress**: Worked through Chapter 4 JS The Definitve Guide
+
+### Day 32: July 20, Thursday
+**Today's Progress**: Worked through Chapter 4 JS The Definitve Guide
+
+### Day 31: July 18, Tuesday
+**Today's Progress**: Worked through Chapters 1-4 - JS The Definitve Guide
+
+### Day 30: July 17, Monday
+**Today's Progress**: Started JS The Definitve Guide
+
+**Links**
+1. [Book](https://www.goodreads.com/book/show/148050.JavaScript) I'm reading/working through 
+2. [PDF Link](http://www.stilson.net/documentation/javascript.pdf)
+
+### Day 29: July 14, Friday
+**Today's Progress**: Worked on "Learn enough Command Line to be Dangerous" Chapter 4-5
+
+**Links**
+1. Book I'm reading/working through: [this](https://www.learnenough.com/command-line-tutorial) 
+
+### Day 28: July 12, Wednesday
+**Today's Progress**: Worked on "Learn enough Command Line to be Dangerous" Chapter 3
+
+**Links**
+1. Book I'm reading/working through: [this](https://www.learnenough.com/command-line-tutorial) 
+
+### Day 27: July 10, Monday
+**Today's Progress**: FCC Beta removed login capabilities. So that's cancelled. Worked on "Learn enough Command Line to be Dangerous" Chapter 2
+
+**Links**
+1. Book I'm reading/working through: [this](https://www.learnenough.com/command-line-tutorial) 
+
+
 ### Day 26: July 4, Tuesday
 **Today's Progress**: Still on this Landing page. I always code for the unit tests first so its been passing for some time. Just "making it purdy"...Spent only about 10-15 minutes on it, because you know, RAGE. Spent the rest of the day learning bash/ternminal.
 
