@@ -20,16 +20,28 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
+### Day 36: July 27, Thursday
+**Today's Progress**: JS The Good Parts Worked through Chapters 1-4
+
+**fCC Solutions**
+1. [Sorted Union](https://github.com/omgninjas/freeCodeCamp/blob/master/sortedUnion.js) 
+2. [Convert HTML Entities](https://github.com/omgninjas/freeCodeCamp/blob/master/htmlEntities.js)
+3. [Spinal Tap Case](https://github.com/omgninjas/freeCodeCamp/blob/master/spinalCase.js)
 
 ### Day 35: July 26, Wednesday
 **Today's Progress**: Worked through Chapter 8 JS The Definitve Guide then Dropped in favor of JS The Good Parts Worked through Chapters 1-4
 
-**Links**
-1. [Book](http://shop.oreilly.com/product/9780596517748.do) I'm reading/working through 
-2. [PDF Link](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+**fCC Solutions**
+1. [Sorted Union](https://github.com/omgninjas/freeCodeCamp/blob/master/sortedUnion.js) 
+2. [Convert HTML Entities](https://github.com/omgninjas/freeCodeCamp/blob/master/htmlEntities.js)
+3. [Spinal Tap Case](https://github.com/omgninjas/freeCodeCamp/blob/master/spinalCase.js)
 
 ### Day 34: July 25, Tuesday
-**Today's Progress**: Worked through Chapter 4 JS The Definitve Guide
+**Today's Progress**: Worked through Chapter 4 JS The Definitve Guide. Worked on FCC
+
+**fCC Solutions**
+1. [Missing letters](https://github.com/omgninjas/freeCodeCamp/blob/master/missingLtrs.js) 
+2. [Boo who](https://github.com/omgninjas/freeCodeCamp/blob/master/booWho.js)
 
 ### Day 33: July 24, Thursday
 **Today's Progress**: Worked through Chapter 4 JS The Definitve Guide. Back on FCC Main Curriculum. Completed Pig Latin FINALLY and DNA Pairing.
