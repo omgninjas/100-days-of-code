@@ -20,6 +20,9 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
+### Day 36: September 6, Wednesday
+**Today's Progress**: ES2015+ Review / Full Stack Javascript Review
+
 ### Day 36: July 27, Thursday
 **Today's Progress**: JS The Good Parts Worked through Chapters 1-4
 
