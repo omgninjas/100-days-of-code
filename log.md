@@ -20,7 +20,33 @@
     **Link(s) to work**: [Calculator App](http://www.example.com)
 
 -->
-### Day 36: September 6, Wednesday
+
+
+### Day 45: September 12, Wednesday
+**Today's Progress**:  Day 3/10 of HackerRank JS
+
+### Day 44: September 12, Tuesday
+**Today's Progress**:  Simple JS Quiz Debugging; Day 2/10 HackerRank JS
+
+### Day 43: September 12, Monday
+**Today's Progress**:  Simple JS Quiz CSS + JS
+
+### Day 42: September 22, Friday
+**Today's Progress**:  Simple JS Quiz CSS
+
+### Day 41: September 21, Thursday
+**Today's Progress**:  Simple JS Quiz HTML 
+
+### Day 40: September 20, Wedneday
+**Today's Progress**:  Simple JS Quiz Project setup
+
+### Day 39: September 12, Tuesday
+**Today's Progress**:  Day 1/10 of HackerRank JS
+
+### Day 38: September 11, Monday
+**Today's Progress**: Full Stack Javascript Review. Started working on more basic projects for portfolio
+
+### Day 37: September 6, Wednesday
 **Today's Progress**: ES2015+ Review / Full Stack Javascript Review
 
 ### Day 36: July 27, Thursday
