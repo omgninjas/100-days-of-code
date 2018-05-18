@@ -22,6 +22,12 @@
 -->
 
 
+### Day 47: May 18, Friday
+**Today's Progress**:  Wordpress Development, php primer
+
+### Day 46: May 17, 2018, Thursday
+**Today's Progress**:  Wordpress Development, setting up multiple local dev environments for WP theme development in PHP.
+
 ### Day 45: September 12, Wednesday
 **Today's Progress**:  Day 3/10 of HackerRank JS
 
